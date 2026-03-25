@@ -1,5 +1,5 @@
 // ===== Configuration =====
-const API_BASE = "https://cafe-finder-template-2zgm.onrender.com/";
+const API_BASE = "https://cafe-finder-template-2zgm.onrender.com";
 
 // ===== DOM Elements =====
 const findBtn = document.getElementById("find-btn");
